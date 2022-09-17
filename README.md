@@ -7,7 +7,7 @@ git clone https://github.com/chikkondra/RCB-TeamPlayers.git
 
 Navigate to folder RCB-TeamPlayers
 
-Install the following packages-->
+Install the following packages using the following command-->
 npm install --legacy-peer-deps
 
 Run the file

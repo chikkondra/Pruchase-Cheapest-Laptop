@@ -10,5 +10,5 @@ Navigate to folder--> RCB-TeamPlayers
 Install the following packages using the following command-->
 npm install --legacy-peer-deps
 
-Run the file
+Run the file using following command-->
 npx wdio run wdio.conf.js

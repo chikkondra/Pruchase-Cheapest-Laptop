@@ -1,5 +1,4 @@
-# RCB-TeamPlayers
-
+# Purchase a Laptop
 How to run it?
 
 Download the repository using the following command-->

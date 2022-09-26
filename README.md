@@ -2,7 +2,7 @@
 How to run it?
 
 Download the repository using the following command-->
-git clone https://github.com/chikkondra/RCB-TeamPlayers.git
+git clone https://github.com/chikkondra/Pruchase-Cheapest-Laptop.git
 
 Navigate to folder--> Automation
 
